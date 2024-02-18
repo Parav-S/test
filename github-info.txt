@@ -1,0 +1,28 @@
+Go to "D:\KIIT Stuff\6th Semester\Machine Learning\ML_Assignment\ML_Assignments"
+
+Open Git Bash
+
+Run these commands ->
+
+1) git add .
+
+2) git commit -m "Added assignment - 3"
+
+3) git push origin main
+
+If not updated ->
+
+1) git status
+	- "Working tree clean" -> Rerun first 3 commnads
+	- "Branch mismatch"/or anything else ->
+		- git pull origin main --rebase
+		- Rerun 1st 3 commands
+
+
+----------------------------------------------------------------------------
+Create new repo -> repo.new -> Add name -> click on create
+Copy SSH key
+Create a folder on local PC -> open folder -> open git bash
+Run these 2 commands
+	- git init
+        - git remote add origin "copied SSH Key"
