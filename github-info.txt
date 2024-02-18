@@ -26,3 +26,5 @@ Create a folder on local PC -> open folder -> open git bash
 Run these 2 commands
 	- git init
         - git remote add origin "copied SSH Key"
+
+By Parav
